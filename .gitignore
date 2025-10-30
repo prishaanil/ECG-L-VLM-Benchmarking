@@ -1,0 +1,14 @@
+/data/
+./datasets/*
+./LLM-Safety*
+*pycache*
+datasets
+*.db
+MedQuAD/*
+output.txt
+*.txt
+*.log
+*.csv
+*.json
+*.jsonl
+*.env
